@@ -1,0 +1,44 @@
+MindCast-GM: Data Collection Report
+Salcore AI, University of Salford
+
+Source 1: NHS MHSDS Monthly Time-Series
+  Files: 4
+    MHSDS Time_Series_data_Apr_2016_MarPrf_2023.csv  (94.3 MB)
+    MHSDS Time_Series_data_Apr_2023_MarFinal_2024.csv  (163.3 MB)
+    MHSDS Time_Series_data_Apr_2024_Mar_2025_Final.csv  (187.6 MB)
+    MHSDS Time_Series_data_Apr_2025_Jul_Perf_2025.csv  (62.3 MB)
+
+Source 2: ONS Annual Wellbeing (Local Authority)
+  Downloaded: 7/7
+    2022_23: ons_wellbeing_2022_23.xlsx  (1.3 MB)
+    2021_22: ons_wellbeing_2021_22.xlsx  (1.2 MB)
+    2020_21: ons_wellbeing_2020_21.xlsx  (825 KB)
+    2019_20: ons_wellbeing_2019_20.xlsx  (778 KB)
+    2018_19: ons_wellbeing_2018_19.xlsx  (634 KB)
+    2017_18: ons_wellbeing_2017_18.xls  (1.1 MB)
+    2016_17: ons_wellbeing_2016_17.xls  (1.0 MB)
+
+Source 3: ONS Quarterly Wellbeing (Non-Seasonally Adjusted)
+  Downloaded: 11/11
+    Q1_2023: ons_quarterly_Q1_2023.xlsx  (109 KB)
+    Q2_2023: ons_quarterly_Q2_2023.xlsx  (110 KB)
+    Q3_2023: ons_quarterly_Q3_2023.xlsx  (109 KB)
+    Q4_2023: ons_quarterly_Q4_2023.xlsx  (108 KB)
+    Q1_2024: ons_quarterly_Q1_2024.xlsx  (115 KB)
+    Q2_2024: ons_quarterly_Q2_2024.xlsx  (121 KB)
+    Q3_2024: ons_quarterly_Q3_2024.xlsx  (126 KB)
+    Q4_2024: ons_quarterly_Q4_2024.xlsx  (114 KB)
+    Q1_2025: ons_quarterly_Q1_2025.xlsx  (120 KB)
+    Q2_2025: ons_quarterly_Q2_2025.xlsx  (131 KB)
+    Q3_2025: ons_quarterly_Q3_2025.xlsx  (135 KB)
+
+Source 4: IMD 2019: Indices of Multiple Deprivation
+  Downloaded: 1/1
+    imd2019_local_authority_summaries.xlsx  (255 KB)
+
+Source 5: ONS Population Estimates (2011–2024)
+  Downloaded: 2/2
+    population_2011_2024_timeseries.xlsx  (45.9 MB)
+    population_mid2024_LA_boundaries.xlsx  (20.4 MB)
+
+Total files: 25
