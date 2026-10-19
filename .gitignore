@@ -218,3 +218,7 @@ __marimo__/
 .streamlit/secrets.toml
 xtras
 .mindcast/
+research_notebooks/data/raw/imd
+research_notebooks/data/raw/mhsds
+research_notebooks/data/raw/ons
+research_notebooks/data/raw/population
